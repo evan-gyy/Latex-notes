@@ -1,10 +1,11 @@
 # Latex-notes
 Latex数学公式的语法笔记，适配Markdown，编写环境基于Typora
 
-# 笔记预览:rainbow:
+# 部分预览:rainbow:
 
+<img src="https://github.com/evan-gyy/Latex-notes/blob/master/latex13.png" style="zoom: 25%;" />
 
-# 使用
+# 使用:rocket:
 
 ## 直接阅读:book:
 
